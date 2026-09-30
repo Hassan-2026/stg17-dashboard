@@ -1,3 +1,9 @@
+**Live dashboard: <https://hassan-2026.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-30.
+
+---
+
 # CPI changes – July 2026
 
 Bilingual (EN/FR) dashboard built from **July 2026**, pages 4, 5, 7.
